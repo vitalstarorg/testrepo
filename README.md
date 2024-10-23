@@ -3,11 +3,11 @@
 - Testing
 <table>
   <tr>
-    <td style="background-color: #ff9999; padding: 10px;">Column 1</td>
-    <td style="background-color: #99ff99; padding: 10px;">Column 2</td>
-    <td style="background-color: #9999ff; padding: 10px;">Column 3</td>
-    <td style="background-color: #ffff99; padding: 10px;">Column 4</td>
-    <td style="background-color: #ffccff; padding: 10px;">Column 5</td>
+    <td style="background:#ff9999;">Column 1</td>
+    <td style="background:#99ff99;">Column 2</td>
+    <td style="background:#9999ff;">Column 3</td>
+    <td style="background:#ffff99;">Column 4</td>
+    <td style="background:#ffccff;">Column 5</td>
   </tr>
 </table>
 
