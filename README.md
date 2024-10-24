@@ -1,8 +1,7 @@
 
 # TestRepo
 - Testing
-- [![Title](https://htmlpreview.github.io/?https://github.com/vitalstarorg/testrepo/blob/master/nbs/plot.html)](https://htmlpreview.github.io/?https://github.com/vitalstarorg/testrepo/blob/master/nbs/plot.html
-)
+- [![Title](https://raw.githubusercontent.com/vitalstarorg/testrepo/refs/heads/master/nbs/plot.gif)](https://htmlpreview.github.io/?https://github.com/vitalstarorg/testrepo/blob/master/nbs/plot.html)
 <table>
   <tr>
     <td style="background:#ff9999;">Column 1</td>
