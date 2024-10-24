@@ -1,6 +1,8 @@
 
 # TestRepo
 - Testing
+- [![Title](https://htmlpreview.github.io/?https://github.com/vitalstarorg/testrepo/blob/master/nbs/plot.html)](https://htmlpreview.github.io/?https://github.com/vitalstarorg/testrepo/blob/master/nbs/plot.html
+)
 <table>
   <tr>
     <td style="background:#ff9999;">Column 1</td>
@@ -13,7 +15,7 @@
 
 <div style="display: flex;">
   <div style="margin-right: 10px;">
-    <img src="https://github.com/vitalstarorg/testrepo/blob/master/nbs/plot.gif" alt="Your Image" width="300">
+    <img src="https://raw.githubusercontent.com/vitalstarorg/testrepo/refs/heads/master/nbs/plot.gif" alt="Your Image" width="300">
   </div>
   <div>
     <iframe src="https://nbviewer.org/github/vitalstarorg/testrepo/blob/master/nbs/plot.html" width="800" height="600"></iframe>
