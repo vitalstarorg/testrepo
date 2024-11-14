@@ -5,21 +5,17 @@
 Below we show both the original encoder-decoder transformer and decorder only GPT2 architectures for comparison. In GPT2, the positioning of the layer normalization is different.
 
 <style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
+td, th {
+   border: none!important;
 }
 </style>
 
-| Column One    | Column Two    |                                                                                                                                                   
-| ---           | ---           |                                                                                                                                                   
-| data cell one | data cell two |  
+
+| Time         | Length        | Speed              | Mass         |
+| ------------ | ------------- | ------------------ | ------------ |
+| -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
+| Second       | Centimetre    | Foot per second    | Gram         |
+| Minute       | Inch          | Miles per hour     | Ounce        |
 
 
 
