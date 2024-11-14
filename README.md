@@ -4,6 +4,25 @@
 
 Below we show both the original encoder-decoder transformer and decorder only GPT2 architectures for comparison. In GPT2, the positioning of the layer normalization is different.
 
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>
+
+| Column One    | Column Two    |                                                                                                                                                   
+| ---           | ---           |                                                                                                                                                   
+| data cell one | data cell two |  
+
+
+
 <table align="center" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center">
