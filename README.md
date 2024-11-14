@@ -4,7 +4,7 @@
 
 Below we show both the original encoder-decoder transformer and decorder only GPT2 architectures for comparison. In GPT2, the positioning of the layer normalization is different.
 
-<table align="center" style="border:0px solid white; width:100%;">
+<table align="center" border="0px">
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/vitalstarorg/projector/refs/heads/main/nbs/ModalNet-21.png" width="300"><br>
